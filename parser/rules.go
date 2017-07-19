@@ -1,4 +1,4 @@
-package etl
+package parser
 
 // used regexp2 instead regexp for better performance
 import (
